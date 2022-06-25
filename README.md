@@ -5,7 +5,7 @@ Nesse projeto foi abordado os conceitos sobre CSS e HTML.
 Foi implementado mais uma página com interface de login e senha, para melhor interação do usuario.
 
 Interface de login
-[![INSTAGRAM](https://.jpg)](https://github.com/alexandrealvees/desafio-digital-inovation-recriando-a-pagina-do-instagram/)
+[![INSTAGRAM](https://login.png)](https://github.com/alexandrealvees/desafio-digital-inovation-recriando-a-pagina-do-instagram/)
 
 
 Interface de logado
