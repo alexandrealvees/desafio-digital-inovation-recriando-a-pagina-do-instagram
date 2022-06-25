@@ -6,6 +6,7 @@ Foi implementado mais uma página com interface de login e senha, para melhor in
 
 Interface de login
 [![INSTAGRAM]([https://user-images.githubusercontent.com/29284127/175757579-443af541-f72a-4345-83c4-c181a0056818.png)](https://github.com/alexandrealvees/desafio-digital-inovation-recriando-a-pagina-do-instagram/)
+<img src="https://user-images.githubusercontent.com/29284127/175757579-443af541-f72a-4345-83c4-c181a0056818.png"/>
 
 
 Interface de logado
