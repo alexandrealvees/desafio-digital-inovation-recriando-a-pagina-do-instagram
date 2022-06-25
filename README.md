@@ -1,8 +1,8 @@
 # Recriando a interface do Instagram
 
-Nesse projeto foi abordado os conceitos sobre CSS e HTML.
+Projeto abordadou os conceitos de CSS e HTML.
 
-Foi implementado mais uma página com interface de login e senha, para melhor interação do usuario.
+Foram implementados mais uma página com interface de login e senha, para melhorar a navegabilidade.
 
 Interface de login
 [![INSTAGRAM]([)](https://github.com/alexandrealvees/desafio-digital-inovation-recriando-a-pagina-do-instagram/)
@@ -17,4 +17,4 @@ Interface de logado
 
 
 
-- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
+- Desafio prático da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
