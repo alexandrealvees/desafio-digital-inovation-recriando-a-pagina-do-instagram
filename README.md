@@ -11,8 +11,8 @@ Interface de login
 
 Interface de logado
 [![INSTAGRAM]([https://)](https://github.com/alexandrealvees/desafio-digital-inovation-recriando-a-pagina-do-instagram/)
-<img src="https://user-images.githubusercontent.com/29284127/175757758-8b482428-9c0b-496c-a0ca-6cb5153ea858.png
-"/>
+<img src="https://user-images.githubusercontent.com/29284127/175757758-8b482428-9c0b-496c-a0ca-
+6cb5153ea858.png"/>
 
 
 
